@@ -3367,5 +3367,17 @@
 		"comment":
 			"Scam address of phishing email sent to leaked Everex investor database",
 		"date": "2017-09-05"
+	},
+	{
+		"address": "0x1d50588c0aa11959a5c28831ce3dc5f1d3120d29",
+		"comment":
+			"MyEtherWallet.com DNS hijack.",
+		"date": "2018-04-24"
+	},
+	{
+		"address": "0x39683abdba389bad9d39fadb82a45bc56244133f",
+		"comment":
+			"MyEtherWallet.com DNS hijack.",
+		"date": "2018-04-24"
 	}
 ]
